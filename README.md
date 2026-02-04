@@ -1,4 +1,6 @@
-## Hi there 👋
+## Kathleen Morrill Pirovich, PhD
+
+Check out my [digital profile](http://tabbzi.github.io/) hosted on GitHub!
 
 <!--
 **tabbzi/tabbzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
